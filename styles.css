@@ -1,4 +1,25 @@
 body {
   background: #5c4f46;
 }
+ul{
+  overflow: hidden;
+  list-style-type: none;
+  padding: 1em;
+  background-color: #E1F7B2;
+  text-align: center;
+}
+li{
+  display: inline;
+  }
+li a{
+  color: black;
+  text-decoration: none;
+  padding: 1em;
+  font-size: 20px;
+  font-family: monospace;
+  
+ }
+li a:hover{
+  background-color:#A9ABA4; 
+}
   
